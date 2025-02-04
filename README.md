@@ -46,11 +46,11 @@
 
 ## 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github.com/sajibN" alt="GitHub Stats" />
+  <img src="[https://github.com/sajibN](https://github-readme-stats.vercel.app/api?username=sajibN&show_icons=true&theme=github_dark)" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sajib2002007&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajibN&theme=radical" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajib2002007&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajibN&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
