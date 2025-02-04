@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sajib
 #### 🚀 Educational Technologist | Full-Stack Developer 
-![🚀 Educational Technologist | Full-Stack Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![🚀 Educational Technologist | Full-Stack Developer ](https://github.com/sajibN/sajibN/blob/main/Sajib%20Kumar%20Paul.png?raw=true)
 
 I am a student at Bangladesh Digital University, Bangladesh, pursuing a degree in Educational Technology & Engineering. Passionate about data science, instructional design, and software development, I am eager to bridge the gap between education and technology through innovative solutions.
 
