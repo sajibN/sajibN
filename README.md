@@ -1,93 +1,29 @@
-<!-- Banner Image (Change the URL with your own) -->
-<p align="center">
-  <img src="https://github.com/sajibN/sajibN/blob/main/Sajib%20Kumar%20Paul.png?raw=true" alt="GitHub Banner" width="100%" />
-</p>
+### Hi there 👋, I'm Sajib
+#### 🚀 Educational Technologist | Full-Stack Developer 
+![🚀 Educational Technologist | Full-Stack Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!-- Profile Picture -->
-<p align="center">
-  <img src="your-profile-image-url" width="200" height="200" style="border-radius: 50%;" alt="Sajib Profile Picture"/>
-</p>
+I am a student at Bangladesh Digital University, Bangladesh, pursuing a degree in Educational Technology & Engineering. Passionate about data science, instructional design, and software development, I am eager to bridge the gap between education and technology through innovative solutions.
 
-<h1 align="center">👋 Hey there, I'm Sajib!</h1>
-<h3 align="center">🚀 Educational Technologist | Full-Stack Developer | Data Science Enthusiast</h3>
+Skills: Python/C/C++/Java/ JS / HTML / CSS
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sajib2002007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/Sajib2002007?tab=followers">
-    <img src="https://img.shields.io/github/followers/Sajib2002007?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</p>
+- 🔭 I’m currently working on eDAD Project 
+- 🌱 I’m currently learning JS 
+- 💬 Ask me about C/C++/Java/HTML/CSS/PHP 
 
----
 
-## 🚀 **About Me**  
-🎯 Passionate about **EdTech & Data Science**  
-🏆 Currently working on **eDAD Project**  
-🌱 Learning **Machine Learning & React Native**  
-💡 Exploring **AI, Cloud Computing, and Open Source Contributions**  
-💬 Ask me about **Python, JavaScript, Data Science, and Web Development**  
-📫 Reach me at: **sajib.email@example.com**  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sajibN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sajib Paul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Sajib Paul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@SNding-dong)  
 
----
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-## ⚡ **Tech Stack**  
+[![trophy](https://github-profile-trophy.vercel.app/?username=sajibN)](https://github.com/ryo-ma/github-profile-trophy)
 
-### **Languages & Frameworks**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css" alt="Tech Stack" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajibN)](https://github.com/anuraghazra/github-readme-stats)
 
-### **Databases & Cloud**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,aws,mongodb" alt="Databases" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajibN&show_icons=true&count_private=true)  
 
----
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sajibN/contributions?format=svg&private=true)  
 
-## 📊 **GitHub Stats**  
-<p align="center">
-  <img src="[https://github.com/sajibN](https://github-readme-stats.vercel.app/api?username=sajibN&show_icons=true&theme=github_dark)" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajibN&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajibN&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![GitHub metrics](https://metrics.lecoq.io/sajibN)  
 
----
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sajibN)  
 
-## 🏆 **GitHub Trophies**  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sajib2002007&theme=algolia&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🚀 **Projects**  
-
-| 🚀 Project | 📝 Description | 🔗 Repo |
-|------------|--------------|---------|
-| **E-commerce Website** | Full-stack online store using React & Firebase | [🔗 View](https://github.com/Sajib2002007/Ecommerce-Website) |
-| **Bookshop Management** | Project for ICT 4364 | [🔗 View](https://github.com/Sajib2002007/Bookshop-Management) |
-| **ML Projects** | Various machine learning models | [🔗 View](https://github.com/Sajib2002007/ML-Projects) |
-
----
-
-## 🌍 **Let's Connect**  
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:sajib.email@example.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-### **🔥 Thanks for visiting my profile! Have a great day! 🚀**  
